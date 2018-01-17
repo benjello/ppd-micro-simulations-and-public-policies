@@ -37,7 +37,7 @@ pip install jupyter matplolib
 
  does not install the packages, you should try the following steps:
 
-  - Add C:\Python27\Scripts to your PATH
+  - Add `C:\Python27\Scripts` to your `PATH`
 
   - Type the command
 ```
@@ -54,15 +54,14 @@ python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host 
 
 It is require to read [this excellent introduction to the notebook](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb)
 
-
-##### Learn some Python
+#### Learn some Python
 
 It is require to read and try to execute [this introductory notebook to the Python langage](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
 
 You can also have a look at one of these Python tutorials:
-https://www.learnpython.org/
+  - https://www.learnpython.org/
 
-[Lear Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+  - [Lear Python in 10 minutes](https://www.stavros.io/tutorials/python/)
 
-[Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+  - [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 
