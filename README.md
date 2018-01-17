@@ -74,4 +74,4 @@ You can also have a look at one of these Python tutorials:
 
 ### Load the notebook for the first session
 
-[Python crash course with exercises](./notebooks/python_crash_course_student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2Fpython_crash_course_student.ipynb.ipynb)
+[Python crash course with exercises](./notebooks/python_crash_course_student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2Fpython_crash_course_student.ipynb)
