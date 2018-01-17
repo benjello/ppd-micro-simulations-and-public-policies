@@ -1,4 +1,4 @@
-# PPD Micr Simulations and Public Policies
+# PPD Micro-Simulations and Public Policies
 
 ## Before first session
 
@@ -27,7 +27,7 @@ Install the software.
   jupyter notebook
   ```
 
-#### Troubleshouting on Microsoft Windows systems:
+#### Troubleshouting on Microsoft Windows systems:
 
  If the command
 
