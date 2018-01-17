@@ -1,4 +1,4 @@
-# PPD Micr Simulations and Publi Policies
+# PPD Micr Simulations and Public Policies
 
 ## Before first session
 
