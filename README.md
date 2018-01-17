@@ -31,22 +31,22 @@ Install the software.
 
  If the command
 
-    ```
-    pip install jupyter matplolib
-    ```
+```
+pip install jupyter matplolib
+```
 
  does not install the packages, you should try the following steps:
 
   - Add C:\Python27\Scripts to your PATH
 
   - Type the command
-    ```
-    python -m pip install jupyter matplotlib
-    ```
+```
+python -m pip install jupyter matplotlib
+```
   - If  you get an SSL certificate error
-    ```
-    python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org jupyter matplotlib
-    ```
+```
+python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org jupyter matplotlib
+```
 
 ### Take the Python crash course (*required*)
 
@@ -65,9 +65,4 @@ https://www.learnpython.org/
 [Lear Python in 10 minutes](https://www.stavros.io/tutorials/python/)
 
 [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
-
-
-
-
-
 
