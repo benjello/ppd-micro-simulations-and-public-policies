@@ -17,15 +17,18 @@ Start by downloading Python 2.7 from [this page](https://www.python.org/download
 Install the software.
 
 #### Install additional packages.
-  Open a console/terminal/command tool on your computer and type:
-  ```shell
-  pip install matplotlib jupyter
-  ```
-  You should be able to use Jupyter Notebook wich is now installed on your computer.
 
-  ```
-  jupyter notebook
-  ```
+Open a console/terminal/command tool on your computer and type:
+
+```shell
+pip install matplotlib jupyter
+```
+
+You should be able to use Jupyter Notebook wich is now installed on your computer.
+
+```
+jupyter notebook
+```
 
 #### Troubleshouting on Microsoft Windows systems:
 
@@ -35,10 +38,8 @@ Install the software.
 pip install jupyter matplolib
 ```
 
- does not install the packages, you should try the following steps:
-
+does not install the packages, you should try the following steps:
   - Add `C:\Python27\Scripts` to your `PATH`
-
   - Type the command
 ```
 python -m pip install jupyter matplotlib
