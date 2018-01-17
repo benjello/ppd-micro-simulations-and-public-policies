@@ -49,18 +49,23 @@ python -m pip install jupyter matplotlib
 python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org jupyter matplotlib
 ```
 
+#### Worst case scenario
+
+Nothing works, try the launch binder badges whenever the appear below.
+
+
 ### Take the Python crash course (*required*)
 
 #### Get familiar with the notebook
 
-It is require to read [this excellent introduction to the notebook](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb)
+It is require to read [this excellent introduction to the notebook](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb).
 
 #### Learn some Python
 
-It is require to read and try to execute [this introductory notebook to the Python langage](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
+It is require to read and try to execute [this introductory notebook to the Python langage](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2F14-python.ipynb)
 
 You can also have a look at one of these Python tutorials:
-  - https://www.learnpython.org/
+  - [The official learn Python tutorial]( https://www.learnpython.org/)
 
   - [Lear Python in 10 minutes](https://www.stavros.io/tutorials/python/)
 
