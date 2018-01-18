@@ -2,7 +2,7 @@
 
 ## Before first session
 
-### Installing the software
+### Install the software
 
 We will try to work on the desktop computers in the room R2-07 (computer lab) but it is strongly recommended that you install the python software on your laptop computer.
 
