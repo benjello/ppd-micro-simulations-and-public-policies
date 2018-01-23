@@ -1,2 +1,2 @@
 matplotlib
-senegal[survey]
+openfisca-senegal[survey]
