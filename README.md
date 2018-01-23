@@ -72,7 +72,7 @@ You can also have a look at one of these Python tutorials:
   - [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 
 
-### Load the notebook for the first session
+### Load the following notebooks for the first session
 
 [Python crash course with exercises](./notebooks/python_crash_course_student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2Fpython_crash_course_student.ipynb)
 
