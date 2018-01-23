@@ -49,7 +49,7 @@ python -m pip install jupyter matplotlib
 python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org jupyter matplotlib
 ```
 
-#### Worst case scenario
+#### Worst case scenario
 
 Nothing works, try the launch binder badges whenever the appear below.
 
