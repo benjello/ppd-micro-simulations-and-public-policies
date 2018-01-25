@@ -1,6 +1,8 @@
 # PPD Micro-Simulations and Public Policies
 
+
 Actions students have to take
+
 * [Before first session](#before-first-session)
 * [Before second session](#before-second-session)
 
@@ -83,3 +85,12 @@ You can also have a look at one of these Python tutorials:
 
 
 ## Before second session
+
+- [Complete the exploration of the Senegalese tax and benefits system by doing the exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student-2.ipynb)
+
+- Install the survey capabilities of openfisca-senegal:
+```
+pip install openfisca-senegal[survey]
+```
+
+- Download the notebook that will be soon accessible here !
