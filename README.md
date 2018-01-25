@@ -1,8 +1,8 @@
 # PPD Micro-Simulations and Public Policies
 
 Actions students have to take
-* [Before first session](#before first session)
-* [Before second session](#before second session)
+* [Before first session](#before-first-session)
+* [Before second session](#before-second-session)
 
 ## Before first session
 
