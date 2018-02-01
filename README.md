@@ -93,4 +93,6 @@ You can also have a look at one of these Python tutorials:
 pip install openfisca-senegal[survey]
 ```
 
-- Download the notebook that will be soon accessible here !
+- We will manipulate [dataframes](http://pandas.pydata.org/): learn how to use them by having a look at his [introduction](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+- Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb) !
