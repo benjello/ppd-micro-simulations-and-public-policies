@@ -1,5 +1,11 @@
 # PPD Micro-Simulations and Public Policies
 
+
+Actions students have to take
+
+* [Before first session](#before-first-session)
+* [Before second session](#before-second-session)
+
 ## Before first session
 
 ### Install the software
@@ -71,12 +77,22 @@ You can also have a look at one of these Python tutorials:
 
   - [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 
-
 ### Load the following notebooks for the first session
 
 - [Python crash course with exercises](./notebooks/python_crash_course_student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2Fpython_crash_course_student.ipynb)
 
-
 - [Explore the Senegalese tax and benefits system](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student.ipynb)
 
 
+## Before second session
+
+- [Complete the exploration of the Senegalese tax and benefits system by doing the exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student-2.ipynb)
+
+- Install the survey capabilities of openfisca-senegal:
+```
+pip install openfisca-senegal[survey]
+```
+
+- We will manipulate [dataframes](http://pandas.pydata.org/): learn how to use them by having a look at his [introduction](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+- Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb) !
