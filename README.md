@@ -73,7 +73,7 @@ It is require to read and try to execute [this introductory notebook to the Pyth
 You can also have a look at one of these Python tutorials:
   - [The official learn Python tutorial]( https://www.learnpython.org/)
 
-  - [Lear Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+  - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
 
   - [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 
@@ -93,6 +93,6 @@ You can also have a look at one of these Python tutorials:
 pip install openfisca-senegal[survey]
 ```
 
-- We will manipulate [dataframes](http://pandas.pydata.org/): learn how to use them by having a look at his [introduction](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+- We will manipulate [dataframes](http://pandas.pydata.org/): learn how to use them by having a look at this [introduction](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 - Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb) !
