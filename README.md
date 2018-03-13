@@ -100,6 +100,6 @@ pip install openfisca-senegal[survey]
 ## After the second session:
 
 You now have access to the complete notebooks with exercise solutions
- - Download the [the first session notebook with exercises solutions](./notebooks/Senegal-exercices-solutions.ipynb.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-exercices-solutions.ipynb.ipynb)
+ - Download the [the first session notebook with exercises solutions](./notebooks/Senegal-exercices-solutions.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-exercices-solutions.ipynb)
 
  - Download the [the second session notebook with exercises solutions](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb)
