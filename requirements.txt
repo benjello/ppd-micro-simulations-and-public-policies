@@ -1,3 +1,4 @@
 matplotlib
 pandas
 openfisca-senegal[survey]
+scipy
