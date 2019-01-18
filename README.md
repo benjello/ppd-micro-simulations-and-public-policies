@@ -45,7 +45,7 @@ pip install jupyter matplolib
 ```
 
 does not install the packages, you should try the following steps:
-  - Add `C:\Python37\Scripts` to your `PATH`
+  - Add the Python `Scripts` directory (it looks like `C:\Python37\Scripts`) to your `PATH`
   - Type the command
 ```
 python -m pip install jupyter matplotlib
