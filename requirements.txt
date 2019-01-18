@@ -1,3 +1,2 @@
-matplotlib
 pandas
-openfisca-senegal[survey]
+openfisca-senegal
