@@ -14,11 +14,11 @@ We will try to work on the desktop computers in the room R2-07 (computer lab) bu
 
 For the tutorial, you will need to install the Python langage together with some specific packages. You need to have a functional internet connection.
 
-#### Install Python 2.7
+#### Install Python 3.7
 
-Start by downloading Python 2.7 from [this page](https://www.python.org/downloads/).
+Start by downloading Python 3.7.2 from [this page](https://www.python.org/downloads/).
 
-*Be careful to download the right version, i.e 2.7 !*
+*Be careful to download the right version, i.e at least a Python 3 version !*
 
 Install the software.
 
@@ -45,7 +45,7 @@ pip install jupyter matplolib
 ```
 
 does not install the packages, you should try the following steps:
-  - Add `C:\Python27\Scripts` to your `PATH`
+  - Add `C:\Python37\Scripts` to your `PATH`
   - Type the command
 ```
 python -m pip install jupyter matplotlib
@@ -84,7 +84,7 @@ You can also have a look at one of these Python tutorials:
 - [Explore the Senegalese tax and benefits system](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student.ipynb)
 
 
-## Before second session
+<!-- ## Before second session
 
 - [Complete the exploration of the Senegalese tax and benefits system by doing the exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student-2.ipynb)
 
@@ -102,4 +102,4 @@ pip install openfisca-senegal[survey]
 You now have access to the complete notebooks with exercise solutions
  - Download the [the first session notebook with exercises solutions](./notebooks/Senegal-exercices-solutions.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-exercices-solutions.ipynb)
 
- - Download the [the second session notebook with exercises solutions](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb)
+ - Download the [the second session notebook with exercises solutions](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb) -->
