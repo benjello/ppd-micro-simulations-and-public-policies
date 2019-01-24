@@ -83,8 +83,7 @@ You can also have a look at one of these Python tutorials:
 
 - [Explore the Senegalese tax and benefits system](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student.ipynb)
 
-
-<!-- ## Before second session
+## Before second session
 
 - [Complete the exploration of the Senegalese tax and benefits system by doing the exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student-2.ipynb)
 
@@ -96,6 +95,8 @@ pip install openfisca-senegal[survey]
 - We will manipulate [dataframes](http://pandas.pydata.org/): learn how to use them by having a look at this [introduction](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 - Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb) !
+
+<!--
 
 ## After the second session:
 
