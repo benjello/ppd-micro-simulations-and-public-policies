@@ -14,7 +14,7 @@ We will try to work on the desktop computers in the room R2-07 (computer lab) bu
 
 For the tutorial, you will need to install the Python langage together with some specific packages. You need to have a functional internet connection.
 
-#### Install Python 3.7
+#### Install Python >= 3.7
 
 Start by downloading Python 3.7.2 from [this page](https://www.python.org/downloads/).
 
