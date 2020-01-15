@@ -1,3 +1,3 @@
 matplotlib
 pandas
-openfisca-senegal[survey]>=0.7.4
+openfisca-senegal[survey]>=0.10

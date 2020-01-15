@@ -14,13 +14,27 @@ We will try to work on the desktop computers in the room R2-07 (computer lab) bu
 
 For the tutorial, you will need to install the Python langage together with some specific packages. You need to have a functional internet connection.
 
-#### Install Python >= 3.7
+#### Python
 
-Start by downloading Python 3.7.2 from [this page](https://www.python.org/downloads/).
+You can install a minimal Python or use Anaconda
+
+##### Minimal install
+
+Start by downloading Python 3.7 from [this page](https://www.python.org/downloads/).
 
 *Be careful to download the right version, i.e at least a Python 3 version !*
 
 Install the software.
+
+##### Anaconda
+
+Download Anaconda for Python 3.7 from [this page](https://www.anaconda.com/distribution/?gclid=CjwKCAiA6vXwBRBKEiwAYE7iS0VHs-3exq2yRCsOM7kWSYjG_hjpmdkfiaOKaPfBBDL_WqQ3dAW3FBoCvfAQAvD_BwE) and install the software.
+
+Create an environment for this class
+
+```shell
+conda create --name ppd python=3.7
+```
 
 #### Install additional packages.
 
@@ -28,6 +42,13 @@ Open a console/terminal/command tool on your computer and type:
 
 ```shell
 pip install matplotlib jupyter
+```
+
+or if you use Anaconda
+
+```shell
+activate ppd
+conda install matplotlib jupyter
 ```
 
 You should be able to use Jupyter Notebook wich is now installed on your computer.
@@ -38,7 +59,7 @@ jupyter notebook
 
 #### Troubleshouting on Microsoft Windows systems:
 
- If the command
+If the command
 
 ```
 pip install jupyter matplolib
