@@ -18,7 +18,7 @@ For the tutorial, you will need to install the Python langage together with some
 
 You can install a minimal Python or use Anaconda
 
-##### Minimal install
+##### Minimal install
 
 Start by downloading Python 3.7 from [this page](https://www.python.org/downloads/).
 
@@ -26,7 +26,7 @@ Start by downloading Python 3.7 from [this page](https://www.python.org/download
 
 Install the software.
 
-##### Anaconda
+##### Anaconda
 
 Download Anaconda for Python 3.7 from [this page](https://www.anaconda.com/distribution/?gclid=CjwKCAiA6vXwBRBKEiwAYE7iS0VHs-3exq2yRCsOM7kWSYjG_hjpmdkfiaOKaPfBBDL_WqQ3dAW3FBoCvfAQAvD_BwE) and install the software.
 
