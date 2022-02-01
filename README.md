@@ -28,7 +28,7 @@ Install the software.
 
 ##### Anaconda
 
-Download Anaconda for Python 3.7 from [this page](https://www.anaconda.com/distribution/?gclid=CjwKCAiA6vXwBRBKEiwAYE7iS0VHs-3exq2yRCsOM7kWSYjG_hjpmdkfiaOKaPfBBDL_WqQ3dAW3FBoCvfAQAvD_BwE) and install the software.
+Download Anaconda for Python 3.7 from [this page](https://www.anaconda.com/products/individual) and install the software.
 
 Create an environment for this class
 
