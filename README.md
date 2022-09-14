@@ -57,7 +57,7 @@ You should be able to use Jupyter Notebook wich is now installed on your compute
 jupyter notebook
 ```
 
-#### Troubleshouting on Microsoft Windows systems:
+<!-- #### Troubleshouting on Microsoft Windows systems:
 
 If the command
 
@@ -74,7 +74,7 @@ python -m pip install jupyter matplotlib
   - If  you get an SSL certificate error
 ```
 python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org jupyter matplotlib
-```
+``` -->
 
 #### Worst case scenario
 
@@ -92,11 +92,12 @@ It is require to read [this excellent introduction to the notebook](http://nbvie
 It is require to read and try to execute [this introductory notebook to the Python langage](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2F14-python.ipynb)
 
 You can also have a look at one of these Python tutorials:
-  - [The official learn Python tutorial]( https://www.learnpython.org/)
 
-  - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+- [The official learn Python tutorial]( https://www.learnpython.org/)
 
-  - [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+- [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+
+- [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 
 ### Load the following notebooks for the first session
 
