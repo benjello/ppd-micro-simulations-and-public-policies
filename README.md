@@ -10,7 +10,7 @@ Actions students have to take
 
 ### Install the software
 
-We will try to work on the desktop computers in the room R2-07 (computer lab) but it is strongly recommended that you install the python software on your laptop computer.
+You have to bring your own laptop computer and install the python software.
 
 For the tutorial, you will need to install the Python langage together with some specific packages. You need to have a functional internet connection.
 
