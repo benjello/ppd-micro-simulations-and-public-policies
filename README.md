@@ -85,11 +85,11 @@ Nothing works, try the launch binder badges whenever the appear below.
 
 #### Get familiar with the notebook
 
-It is require to read [this excellent introduction to the notebook](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb).
+It is required to read [this excellent introduction to the notebook](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb).
 
 #### Learn some Python
 
-It is require to read and try to execute [this introductory notebook to the Python langage](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2F14-python.ipynb)
+It is required to read and try to execute [this introductory notebook to the Python langage](http://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2F14-python.ipynb)
 
 You can also have a look at one of these Python tutorials:
 
