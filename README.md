@@ -101,9 +101,11 @@ You can also have a look at one of these Python tutorials:
 
 ### Load the following notebooks for the first session
 
-- [Python crash course with exercises](./notebooks/python_crash_course_student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2Fpython_crash_course_student.ipynb)
+- [Python crash course with exercises](./notebooks/python_crash_course_student.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2Fpython_crash_course_student.ipynb)
 
-- [Explore the Senegalese tax and benefits system](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-student.ipynb)
+
+- [Explore the Senegalese tax and benefits system](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student.ipynb)
+
 
 ## Before second session
 
@@ -116,13 +118,15 @@ pip install openfisca-senegal[survey]
 
 - We will manipulate [dataframes](http://pandas.pydata.org/): learn how to use them by having a look at this [introduction](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
-- Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb)
+- Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student-2.ipynb)
+
 
 <!--
 
 ## After the second session:
 
 You now have access to the complete notebooks with exercise solutions
- - Download the [the first session notebook with exercises solutions](./notebooks/Senegal-exercices-solutions.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FSenegal-exercices-solutions.ipynb)
+ - Download the [the first session notebook with exercises solutions](./notebooks/Senegal-exercices-solutions.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-exercices-solutions.ipynb)
 
- - Download the [the second session notebook with exercises solutions](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/benjello/ppd-micro-simulations-and-public-policies/master?filepath=notebooks%2FFake-data-Senegal.ipynb) -->
+
+ - Download the [the second session notebook with exercises solutions](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FFake-data-Senegal.ipynb) -->
