@@ -12,7 +12,7 @@ Actions students have to take
 
 You have to bring your own laptop computer and install the python software.
 
-For the tutorial, you will need to install the Python langage together with some specific packages. You need to have a functional internet connection.
+For the tutorial, you will need to install the Python language together with some specific packages. You need to have a functional internet connection.
 
 #### Python
 
@@ -107,10 +107,12 @@ You can also have a look at one of these Python tutorials:
 
 - [Explore the Senegalese tax and benefits system](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student.ipynb)
 
+- [Additional exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student-2.ipynb)
+
 
 ## Before second session
 
-- [Complete the exploration of the Senegalese tax and benefits system by doing the exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student-2.ipynb)
+- [Complete the exploration of the Senegalese tax and benefits system by doing/finishing the exercises](./notebooks/Senegal-student-2.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student-2.ipynb)
 
 - Install the survey capabilities of openfisca-senegal:
 ```
