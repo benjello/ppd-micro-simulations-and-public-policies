@@ -1,10 +1,11 @@
 # PPD/APE Micro-Simulations and Public Policies
 
+My mail adress : sylvain.duchesne@ipp.eu
 
 Actions students have to take
 
-* [Before first session](#before-first-session)
-* [Before second session](#before-second-session)
+* [Before first session (2024/02/01)](#before-first-session)
+* [Before second session (2024/02/15)](#before-second-session)
 
 ## Before first session
 
