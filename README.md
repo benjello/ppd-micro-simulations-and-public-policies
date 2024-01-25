@@ -79,7 +79,7 @@ python -m pip install --index-url=http://pypi.python.org/simple/ --trusted-host 
 
 #### Worst case scenario
 
-Nothing works, try the launch binder badges whenever the appear below.
+Nothing works, try the launch binder badges whenever it appears below.
 
 
 ### Take the Python crash course (*required*)
