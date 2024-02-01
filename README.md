@@ -111,7 +111,9 @@ You can also have a look at one of these Python tutorials:
 
 ## Before second session
 
-- [Complete the exploration of the Senegalese tax and benefits system by continuing the exercises](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student.ipynb)
+- [Complete the exploration of the Senegalese tax and benefits system by coding a loop for the gain of having one more child depending on the income for different number of children](./notebooks/Senegal-student.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FSenegal-student.ipynb)
+
+- [You can look at the correction of the first part of the notebook (Warning, I included the last loop, try not to use it while searching !)](./notebooks/Senegal-exercices-solutions1.ipynb).
 
 - Install the survey capabilities of openfisca-senegal:
 ```
