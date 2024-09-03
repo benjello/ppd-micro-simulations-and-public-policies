@@ -21,7 +21,7 @@ You can install a minimal Python or use Anaconda
 
 ##### Minimal install
 
-Start by downloading Python 3.9 from [this page](https://www.python.org/downloads/).
+Start by downloading Python 3.11 from [this page](https://www.python.org/downloads/).
 
 *Be careful to download the right version, i.e at least a Python 3 version !*
 
@@ -29,12 +29,12 @@ Install the software.
 
 ##### Anaconda
 
-Download Anaconda for Python 3.9 from [this page](https://www.anaconda.com/products/individual) and install the software.
+Download Anaconda for Python 3.11 from [this page](https://www.anaconda.com/products/individual) and install the software.
 
 Create an environment for this class
 
 ```shell
-conda create --name ppd python=3.9
+conda create --name ppd python=3.11
 ```
 
 #### Install additional packages.
