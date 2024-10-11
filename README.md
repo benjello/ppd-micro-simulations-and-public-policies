@@ -125,26 +125,6 @@ pip install openfisca-senegal[survey]
 - Download the [the second session notebook](./notebooks/Fake-data-Senegal.ipynb). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylvainipp/pse-micro-simulations-and-public-policies.git/master?labpath=notebooks%2FFake-data-Senegal.ipynb)
 
 
-## For MAC OS users
-
-You might need to deactivate your root environment before creating the new one (otherwise, it is created on top on the root environment that is Python 3.11 and not 3.9). To achieve this, you will need to type in an anaconda shell "conda deactivate" until the parentheses in the left disappear (it should start with something like "(base)<<<", and you want the (base) part to disappear). Then, try to create your new environment 3.9 as above, and to run Jupyter. Hopefully this will work.
-If you have a "build wheel" error, you might need to run in your command prompt :
-
-conda create --name new_name python=3.9
-
-conda activate new_name
-
-conda install numpy=1.20
-
-conda install hdf5
-
-conda install matplotlib jupyter
-
-jupyter notebook
-
-and then to launch the notebook's pip install cell.
-
-
 
 ## After the second session:
 
